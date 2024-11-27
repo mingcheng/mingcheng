@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mingcheng&hide_border=true&no-bg=true&layout=pie&theme=&langs_count=8" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mingcheng&hide_border=true&no-bg=true&layout=pie&theme=&langs_count=6" />
 
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mingcheng&show_icons=true&hide_border=true&theme=&no-frame=true&hide_title=true"  />
