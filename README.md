@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-<img align="right" alt="" src="https://raw.githubusercontent.com/mingcheng/langstat/refs/heads/data/data/mingcheng/latest.png" width="500" />
+<img align="right" alt="" src="https://raw.githubusercontent.com/mingcheng/langstat/refs/heads/data/data/mingcheng/treemap_latest.png" width="350" />
 
 My name is mingcheng(aka 明城). I'm originally from Ningbo, China, and currently based in Hangzhou.
 
