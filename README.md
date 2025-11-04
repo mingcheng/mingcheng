@@ -1,13 +1,13 @@
-## Greetings! 👋
+## Hi there! 👋
 
 <img align="right" alt="" src="https://raw.githubusercontent.com/mingcheng/langstat/refs/heads/data/data/mingcheng/treemap_latest.png" width="500" />
 
-My name is mingcheng(aka 明城). I'm originally from Ningbo, China, and currently based in Hangzhou.
+I'm mingcheng (明城), originally from Ningbo, China, and currently based in Hangzhou.
 
-I am employed at [Ant Group](https://github.com/antgroup) as an open-source evangelist. And I'm on the Project Management Committee (PMC) in the [Apache Software Foundation](https://apache.org/). I maintain several open-source projects, such as [InclusionAI](https://github.com/inclusionAI) ([Huggingface](https://huggingface.co/inclusionAI)) Maintainer, [Dragonfly, which is a CNCF Graduated Project](https://github.com/dragonflyoss) Maintainer, and [Apache Geaflow(Incubating)](https://github.com/apache/geaflow) Committee. In addition, I'm also pursuing a master's degree in business analytics and data science at [SISU (Shanghai International Studies University)](https://shisu.edu.cn), from which I expect to graduate in 2026.
+I work at [Ant Group](https://github.com/antgroup) as an open-source evangelist and serve on the Project Management Committee (PMC) of the [Apache Software Foundation](https://apache.org/). I maintain several open-source projects, including [InclusionAI](https://github.com/inclusionAI) ([Huggingface](https://huggingface.co/inclusionAI)), [Dragonfly (CNCF Graduated Project)](https://github.com/dragonflyoss), and [Apache Geaflow (Incubating)](https://github.com/apache/geaflow). I'm also pursuing a master's degree in business analytics and data science at [SISU](https://shisu.edu.cn), graduating in 2026.
 
-I'm passionate about programming languages. I primarily work with _Rust_, _Golang_, _TypeScript_, _Java_, _Python_, and _R_. I'm particularly excited about writing open-source projects in _Rust_ and _Golang_. Programming languages are not only just tools, but also they're a medium for exploring technology and expressing creativity to me. Currently, I'm learning more about _AI agents_, _data analytics_, and related fields.
+I'm passionate about programming, primarily working with _Rust_, _Golang_, _TypeScript_, _Java_, _Python_, and _R_. To me, programming languages are more than tools—they're a medium for exploring technology and expressing creativity. Currently, I'm diving deeper into _AI agents_ and _data analytics_.
 
-Subsequently, I am enthusiastic about the Linux platform. I have a lot of experience with several Linux distributions, but _Debian_ and _Arch Linux_ are my favorites.  I am proficient in system administration, shell scripting, and automation. I enjoy discovering new tools and applications in the Linux ecosystem. Therefore, I am also a big lover of _macOS_, having used it for decades.
+I'm also an enthusiast of Linux (_Debian_ and _Arch Linux_ are my favorites) and _macOS_. I enjoy system administration, shell scripting, automation, and discovering new tools in these ecosystems.
 
-You may find out more about me from [this link](https://mingche.ng), if you're interested.
+Learn more about me at [mingche.ng](https://mingche.ng).
