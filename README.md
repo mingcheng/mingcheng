@@ -8,6 +8,4 @@ I work at [Ant Group](https://github.com/antgroup) as an open-source evangelist 
 
 I'm passionate about programming, primarily working with _Rust_, _Golang_, _TypeScript_, _Java_, _Python_, and _R_. To me, programming languages are more than tools—they're a medium for exploring technology and expressing creativity. Currently, I'm diving deeper into _AI agents_ and _data analytics_.
 
-I'm also an enthusiast of Linux (_Debian_ and _Arch Linux_ are my favorites) and _macOS_. I enjoy system administration, shell scripting, automation, and discovering new tools in these ecosystems.
-
-Learn more about me at [mingche.ng](https://mingche.ng).
+I am a _FreeBSD_ enthusiast and also a big fan of Linux (_Debian_ and _Arch_ are my favorites) and _macOS_. I enjoy system administration, shell scripting, automation, and discovering new tools in these ecosystems.
