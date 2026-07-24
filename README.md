@@ -1,9 +1,20 @@
 ## Hi there! 👋
 
-<img align="right" alt="" src="https://raw.githubusercontent.com/mingcheng/langstat/refs/heads/data/data/mingcheng/treemap_latest.png" width="500" />
+<img align="right" alt="Programming Language Statistics" src="https://raw.githubusercontent.com/mingcheng/langstat/refs/heads/data/data/mingcheng/treemap_latest.png" width="500" />
 
-I'm mingcheng(明城). Originally from Ningbo, I am currently based in Hangzhou, China. I work as an Open-Source Evangelist at [Ant Group](https://github.com/antgroup) and serve on the Project Management Committee (PMC) at the [Apache Software Foundation](https://apache.org/). I actively maintain several open-source projects, including [InclusionAI](https://github.com/inclusionAI) ([Huggingface](https://huggingface.co/inclusionAI)), [Dragonfly (CNCF Graduated Project)](https://github.com/dragonflyoss), and [Apache Geaflow (Incubating)](https://github.com/apache/geaflow). 
+I am mingcheng (明城). Originally from Ningbo, I am currently based in Hangzhou, China. 
 
-I'm passionate about programming, primarily working with _Rust_, _Golang_, _TypeScript_, _Java_, _Python_, and _R_. To me, programming languages are more than tools: they're a medium for exploring technology and expressing creativity. Currently, I'm diving deeper into _AI agents_ and _data analytics_. 
+**Professional Background**
 
-And I am also a _FreeBSD_ enthusiast who also relies heavily on macOS and Linux. For Linux, I prefer Debian for production and Arch (specifically [EndeavourOS](https://endeavouros.com/)) for my development environment. I enjoy system administration, shell scripting, automation, and discovering new tools across these ecosystems.
+I serve as an Open-Source Evangelist at [Ant Group](https://github.com/antgroup) and hold a position on the Project Management Committee (PMC) at the [Apache Software Foundation](https://apache.org/). I actively maintain and contribute to several open-source initiatives, including:
+* [InclusionAI](https://github.com/inclusionAI) ([Huggingface](https://huggingface.co/inclusionAI))
+* [Dragonfly](https://github.com/dragonflyoss) (CNCF Graduated Project)
+* [Apache Geaflow](https://github.com/apache/geaflow) (Incubating)
+
+**Technical Focus**
+
+My primary programming languages include Rust, Golang, TypeScript, Java, Python, and R. I approach programming languages not merely as functional utilities, but as structured mediums for technological exploration and system design. Currently, my technical development is concentrated on AI agents and data analytics.
+
+**Systems & Infrastructure**
+
+I am a FreeBSD user and utilize macOS and Linux extensively. For Linux deployments, I prefer Debian for production environments and Arch Linux (specifically [EndeavourOS](https://endeavouros.com/)) for local development. My infrastructural interests include system administration, shell scripting, task automation, and the evaluation of new tooling across these operating systems.
