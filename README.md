@@ -7,8 +7,10 @@ I am mingcheng (明城). Originally from Ningbo, I am currently based in Hangzho
 **Professional Background**
 
 I serve as an Open-Source Evangelist at [Ant Group](https://github.com/antgroup) and hold a position on the Project Management Committee (PMC) at the [Apache Software Foundation](https://apache.org/). I actively maintain and contribute to several open-source initiatives, including:
+
 * [InclusionAI](https://github.com/inclusionAI) ([Huggingface](https://huggingface.co/inclusionAI))
-* [Dragonfly](https://github.com/dragonflyoss) (CNCF Graduated Project)
+* [AReaL](https://areal-ai.io/) ([The PyTorch Foundation Landscape Project](https://landscape.pytorch.org/?item=training--distributed--areal))
+* [Dragonfly](https://github.com/dragonflyoss) (The CNCF Graduated Project)
 * [Apache Geaflow](https://github.com/apache/geaflow) (Incubating)
 
 **Technical Focus**
