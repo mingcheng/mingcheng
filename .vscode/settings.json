@@ -1,0 +1,11 @@
+{
+  "editor.fontSize": 12,
+  "editor.lineHeight": 1.5,
+  "editor.trimAutoWhitespace": true,
+  "files.trimTrailingWhitespace": true,
+  "[markdown]": {
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Sarasa Fixed SC",
+    "editor.wordWrap": "on"
+  }
+}

@@ -1,23 +1,25 @@
-## Hi there! 👋
+# Hi, I'm mingcheng 👋
 
 <img align="right" alt="Programming Language Statistics" src="https://raw.githubusercontent.com/mingcheng/langstat/refs/heads/data/data/mingcheng/treemap_latest.png" width="500" />
 
-I am mingcheng (明城). Originally from Ningbo, I am currently based in Hangzhou, China. 
+I'm mingcheng (明城), an open-source practitioner originally from Ningbo and now based in Hangzhou, China.
 
-**Professional Background**
+I work as an Open-Source Evangelist at [Ant Group](https://github.com/antgroup) and serve on a Project Management Committee (PMC) within the [Apache Software Foundation](https://apache.org/). My work brings together software development, community building, and the long-term stewardship of open-source projects.
 
-I serve as an Open-Source Evangelist at [Ant Group](https://github.com/antgroup) and hold a position on the Project Management Committee (PMC) at the [Apache Software Foundation](https://apache.org/). I actively maintain and contribute to several open-source initiatives, including:
+Before joining Ant Group, I worked at [NetEase](https://www.netease.com/) as a technical expert and engineering manager. As a systems architect, I was responsible for advancing cloud-native technologies and shaping the team's technical direction.
 
-* [InclusionAI](https://www.inclusion-ai.org/) : [GitHub](https://github.com/inclusionAI) [Hugging Face](https://huggingface.co/inclusionAI)
-* [AReaL](https://areal-ai.io/) ([The PyTorch Foundation Landscape Project](https://landscape.pytorch.org/?item=training--distributed--areal))
-* [Dragonfly](https://github.com/dragonflyoss) (The CNCF Graduated Project)
-* [Apache Geaflow](https://github.com/apache/geaflow) (Incubating)
-* [Apache Answer](https://answer.apache.org/) (Graduated)
+## Open-Source Work
 
-**Technical Focus**
+My current contributions span AI, cloud-native infrastructure, and developer communities:
 
-My primary programming languages include Rust, Golang, TypeScript, Java, Python, and R. I approach programming languages not merely as functional utilities, but as structured mediums for technological exploration and system design. Currently, my technical development is concentrated on AI agents and data analytics.
+- [InclusionAI](https://www.inclusion-ai.org/) — [GitHub](https://github.com/inclusionAI) · [Hugging Face](https://huggingface.co/inclusionAI)
+- [AReaL](https://areal-ai.io/) — [PyTorch Foundation Landscape Project](https://landscape.pytorch.org/?item=training--distributed--areal)
+- [Dragonfly](https://github.com/dragonflyoss) — CNCF graduated project
+- [Apache Geaflow](https://github.com/apache/geaflow) — Apache incubating project
+- [Apache Answer](https://answer.apache.org/) — Apache top-level project
 
-**Systems & Infrastructure**
+## Engineering Perspective
 
-I am a FreeBSD user and utilize macOS and Linux extensively. For Linux deployments, I prefer Debian for production environments and Arch Linux (specifically [EndeavourOS](https://endeavouros.com/)) for local development. My infrastructural interests include system administration, shell scripting, task automation, and the evaluation of new tooling across these operating systems.
+I focus on AI agents and infrastructure, with a particular interest in turning emerging technologies into dependable systems. For me, good engineering extends beyond implementation: it also depends on clear design, reliable automation, and communities that can sustain the work over time.
+
+FreeBSD remains my system of choice, with macOS and Linux also part of my daily work. I favor Debian for production and container environments and [Kalpa Desktop](https://kalpadesktop.org/) for desktop use, reflecting my broader interest in practical, maintainable systems and atomic Linux.
