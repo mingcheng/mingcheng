@@ -1,0 +1,6 @@
+[tools]
+prek = "latest"
+
+[tasks.lint]
+description = "Run repository checks with prek"
+run = "prek run --all-files"
